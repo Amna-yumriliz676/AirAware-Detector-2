@@ -1,0 +1,55 @@
+ZONE: Gulberg
+CITY: Lahore
+TYPE: Commercial
+BASE_AQI: 350
+PEAK_HOURS: 8-10 AM, 5-7 PM
+DESCRIPTION: Commercial area with heavy traffic
+
+ZONE: DHA
+CITY: Lahore
+TYPE: Residential
+BASE_AQI: 220
+PEAK_HOURS: 7-9 AM
+DESCRIPTION: Upscale residential area
+
+ZONE: Model Town
+CITY: Lahore
+TYPE: Residential
+BASE_AQI: 180
+PEAK_HOURS: 6-8 AM
+DESCRIPTION: Green residential area
+
+ZONE: Johar Town
+CITY: Lahore
+TYPE: Mixed
+BASE_AQI: 280
+PEAK_HOURS: 8-10 AM
+DESCRIPTION: Mixed commercial-residential
+
+ZONE: Saddar
+CITY: Karachi
+TYPE: Commercial
+BASE_AQI: 200
+PEAK_HOURS: 9-11 AM
+DESCRIPTION: Bustling commercial hub
+
+ZONE: Clifton
+CITY: Karachi
+TYPE: Residential
+BASE_AQI: 140
+PEAK_HOURS: 7-9 AM
+DESCRIPTION: Coastal residential area
+
+ZONE: Blue Area
+CITY: Islamabad
+TYPE: Commercial
+BASE_AQI: 130
+PEAK_HOURS: 8-10 AM
+DESCRIPTION: Capital's business district
+
+ZONE: F-7
+CITY: Islamabad
+TYPE: Residential
+BASE_AQI: 90
+PEAK_HOURS: 6-8 AM
+DESCRIPTION: Green residential sector
