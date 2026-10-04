@@ -1,0 +1,10 @@
+streamlit==1.39.0
+plotly==5.24.1
+pandas==2.2.3
+numpy==1.26.4
+Pillow==10.4.0
+sentence-transformers==3.2.1
+faiss-cpu==1.8.0.post1
+folium==0.17.0
+streamlit-folium==0.20.1
+scikit-learn==1.5.2
