@@ -1,0 +1,44 @@
+
+---
+
+# 📄 FILE 4 of 17: `data/health_guidelines.txt`
+
+## 🎯 Kis liye?
+RAG knowledge base — health conditions ke liye guidelines.
+
+```txt
+CONDITION: Asthma
+AQI_THRESHOLD: 150
+RISK_LEVEL: Extreme
+ACTIONS: Ghar par rahein|N95 mask pehnein|Inhaler saath rakhein|Chest tightness par foran doctor|Air purifier on karein
+SEVERITY: High
+
+CONDITION: Heart Patient
+AQI_THRESHOLD: 100
+RISK_LEVEL: Extreme
+ACTIONS: Outdoor activity bilkul avoid|Medication regular lein|Emergency contact ready rakhein|BP check karein|Ghar par rahein
+SEVERITY: Critical
+
+CONDITION: Pregnant Women
+AQI_THRESHOLD: 100
+RISK_LEVEL: Critical
+ACTIONS: N95 mask mandatory|30 min se zyada bahar na rahein|Air purifier use karein|Regular checkup|Hydrated rahein
+SEVERITY: Critical
+
+CONDITION: Children
+AQI_THRESHOLD: 100
+RISK_LEVEL: High
+ACTIONS: Outdoor sports band|School mein mask zaroori|Indoor activities karein|Windows band rakhein|Pediatrician se consult
+SEVERITY: High
+
+CONDITION: Elderly
+AQI_THRESHOLD: 100
+RISK_LEVEL: High
+ACTIONS: Ghar par rahein|Doctor checkup regular|N95 mask zaroori|Indoor exercise|Emergency number ready
+SEVERITY: High
+
+CONDITION: Healthy Adult
+AQI_THRESHOLD: 200
+RISK_LEVEL: Moderate
+ACTIONS: Mask pehnein bahar|Outdoor exercise avoid|Hydrated rahein|Indoor workout karein|Vitamin C lein
+SEVERITY: Medium
