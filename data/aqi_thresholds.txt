@@ -1,0 +1,53 @@
+RANGE: 0-50
+LEVEL: Good
+COLOR: Green
+COLOR_HEX: #16a34a
+MASK: Not needed
+SCHOOLS: Open
+OUTDOOR: Safe
+ADVICE: Normal outdoor activity safe hai
+
+RANGE: 51-100
+LEVEL: Moderate
+COLOR: Yellow
+COLOR_HEX: #eab308
+MASK: Optional
+SCHOOLS: Open with caution
+OUTDOOR: Safe for most
+ADVICE: Sensitive groups mask pehnein
+
+RANGE: 101-150
+LEVEL: Unhealthy for Sensitive
+COLOR: Orange
+COLOR_HEX: #f97316
+MASK: Recommended
+SCHOOLS: Outdoor activities reduced
+OUTDOOR: Limit time
+ADVICE: Asthma/heart patients ghar rahein
+
+RANGE: 151-200
+LEVEL: Unhealthy
+COLOR: Red
+COLOR_HEX: #dc2626
+MASK: Required
+SCHOOLS: Outdoor sports banned
+OUTDOOR: Avoid
+ADVICE: Sab mask pehnein, outdoor exercise avoid
+
+RANGE: 201-300
+LEVEL: Very Unhealthy
+COLOR: Purple
+COLOR_HEX: #7c3aed
+MASK: N95 Required
+SCHOOLS: Consider closure
+OUTDOOR: Avoid
+ADVICE: Emergency conditions, ghar par rahein
+
+RANGE: 301-500
+LEVEL: Hazardous
+COLOR: Maroon
+COLOR_HEX: #991b1b
+MASK: N95 Mandatory
+SCHOOLS: Close
+OUTDOOR: Banned
+ADVICE: Emergency, sab ghar par rahein
